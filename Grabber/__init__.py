@@ -16,18 +16,18 @@ logging.getLogger('httpx').setLevel(logging.WARNING)
 logging.getLogger("pyrate_limiter").setLevel(logging.ERROR)
 LOGGER = logging.getLogger(__name__)
 
-OWNER_ID = 6691393517
-sudo_users = ["6691393517", "6691393517"]
-GROUP_ID = -1001802990747
-TOKEN = "6576720076:AATBvGaPhqWKrSayoXnIL0YtG18"
-mongo_url = "mongodb+srv://te3:te23@cluster0.ysbpgcp.mongodb.net/?retryWrites=true&w=majority"
+OWNER_ID = 5490773419
+sudo_users = ["6236734355", "6590287973"]
+GROUP_ID = -1002037503706
+TOKEN = ""6852378560:AAHl6-3MW_eiE72v2R5X-8EBYghKTon4kU0
+mongo_url = "mongodb+srv://itachi:itachi@itachi.hyhnjlq.mongodb.net/?retryWrites=true&w=majority"
 PHOTO_URL = ["https://telegra.ph/file/72ea883532b722f405059.jpg", "https://telegra.ph/file/72ea883532b722f405059.jpg"]
-SUPPORT_CHAT = "HEROKUFREECC"
-UPDATE_CHAT = "HEROKUFREECC"
+SUPPORT_CHAT = "bot_support89"
+UPDATE_CHAT = "itachiprox"
 BOT_USERNAME = "AnzooBot"
 CHARA_CHANNEL_ID = -1001802990747
-api_id = 6435225
-api_hash = "4e984ea35f854762dcde906dce426c2d"
+api_id = 24658337
+api_hash = "bf99242dbb7f3501f28d39f0a0383cbf"
 
 
 application = Application.builder().token(TOKEN).build()
