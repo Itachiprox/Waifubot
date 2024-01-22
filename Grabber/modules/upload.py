@@ -27,7 +27,7 @@ async def upload(update: Update, context: CallbackContext) -> None:
         args = context.args
         if len(args) != 4:
             await update.message.reply_text("""
-        Wrong ❌️ format...  eg. /upload Img_url muzan-kibutsuji Demon-slayer 3
+        Wrong ❌️ format...  eg. /add Img_url muzan kibutsuji Demon slayer 3
 
 img_url character-name anime-name rarity-number
 
