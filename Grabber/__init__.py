@@ -25,7 +25,7 @@ PHOTO_URL = ["https://telegra.ph/file/72ea883532b722f405059.jpg", "https://teleg
 SUPPORT_CHAT = "bot_support89"
 UPDATE_CHAT = "itachiprox"
 BOT_USERNAME = "AnzooBot"
-CHARA_CHANNEL_ID = -1001802990747
+CHARA_CHANNEL_ID = -1002083513031
 api_id = 24658337
 api_hash = "bf99242dbb7f3501f28d39f0a0383cbf"
 
